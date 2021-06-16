@@ -131,10 +131,4 @@ public class Main extends Application {
 	public static void main(String[] args) {
 		launch(args);
 	}
-	public class hh{ 
-		int h;
-		public void hh() {
-			h=0;
-		}
-	}
 }
